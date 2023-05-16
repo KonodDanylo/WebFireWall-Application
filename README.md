@@ -50,4 +50,4 @@ Blacklisted IP: If you added an IP address to the blacklist, try accessing the w
 
 Rate Limiting: If you set a rate limit for requests, try exceeding the specified limit. You will receive a blocked request message.
 
-That's it! You now have a basic understanding of how to use the Web Application Firewall!
+That's it! You now have a basic understanding of how to use my Web Application Firewall!
